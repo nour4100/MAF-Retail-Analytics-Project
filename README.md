@@ -57,8 +57,9 @@ Relationships were created in Power BI following one-to-many best practices.
 SQL was used for:
 
 DDL
-![image8](/SQL%20Script/image/DDL1.png)
-![image9](/SQL%20Script/image/DD2.png)
+<img width="847" height="588" alt="DDL1" src="https://github.com/user-attachments/assets/16ffa232-c346-4870-9909-3df896e7bafb" />
+<img width="836" height="569" alt="DD2" src="https://github.com/user-attachments/assets/c7731e1e-6f45-409a-a5e5-d838d0fc4f3c" />
+
 
 ✔ Data Quality Checks
 
